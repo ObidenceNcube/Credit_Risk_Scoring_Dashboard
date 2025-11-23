@@ -25,3 +25,31 @@ Interactive sidebar for entering a new applicant profile.
 Predicts default probability + provides approval/rejection suggestion.
 
 Generates local SHAP waterfall plots to explain the prediction.
+
+**Live App Experience**
+
+After running the app, you can explore:
+
+- Model Performance Overview
+
+- Default rate
+
+- ROC AUC Score
+
+- Model accuracy
+
+- Confusion matrix
+
+- Global Model Interpretability (SHAP)
+
+- Feature impact visualised across the entire dataset
+
+- Individual Applicant Scoring
+
+- Adjustable sliders for applicant features
+
+- Risk prediction with probability
+
+- Approval/Reject recommendation
+
+- Local SHAP explanation for transparency
